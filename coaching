@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="帮助教会成全个人整全生命，达成上帝的目标。提供教会事工资源、圣经神学课程、个人教练与培训。">
+    <meta name="keywords" content="教会指导, 教会事工, 圣经神学, 个人教练, 培训课程, 整全生命, 基督教资源">
+    <meta name="author" content="你的名字">
+    <title>教会指导 | 实现整全生命与教会事工</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: yellow;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: blue;
+        }
+        footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>教会指导 - 实现整全生命与教会事工</h1>
+        <p>帮助教会成全个人整全生命，达成上帝的目标。</p>
+    </header>
+
+    <nav>
+        <a href="#bible">圣经/神学</a>
+        <a href="#church-ministry">教会事工资源</a>
+        <a href="#survey">调查软件</a>
+        <a href="#coaching">个人教练</a>
+        <a href="#courses">培训课程</a>
+        <a href="#head-heart-hands">头心手</a>
+        <a href="#miscellaneous">其他</a>
+        <a href="#external-links">外部链接</a>
+    </nav>
+
+    <section id="bible">
+        <h2>圣经/神学</h2>
+        <p>这里提供与圣经和神学相关的课程和资源，帮助教会成员更好地理解圣经真理。</p>
+    </section>
+
+    <section id="church-ministry">
+        <h2>教会事工资源</h2>
+        <p>提供丰富的教会事工资源，如讲道稿、事工管理工具、事工评估等，帮助教会更好地运营。</p>
+    </section>
+
+    <section id="survey">
+        <h2>调查软件</h2>
+        <p>使用这些调查工具，为教会和个人的灵性成长和发展做出评估和反馈。</p>
+    </section>
+
+    <section id="coaching">
+        <h2>个人教练</h2>
+        <p>提供教会指导和个人成长教练服务，帮助个人在信仰中成长，实现整全的生命。</p>
+    </section>
+
+    <section id="courses">
+        <h2>培训课程</h2>
+        <p>提供培训课程，专注于教会领袖、事工负责人和个人成长的学习计划。</p>
+    </section>
+
+    <section id="head-heart-hands">
+        <h2>头心手</h2>
+        <p>关注整个人的成长，包括思想（头）、情感（心）和行动（手）的全面健康与平衡。</p>
+    </section>
+
+    <section id="miscellaneous">
+        <h2>其他</h2>
+        <p>其他与教会和个人成长相关的资源与信息。</p>
+    </section>
+
+    <section id="external-links">
+        <h2>外部链接</h2>
+        <p>提供有价值的外部资源链接，帮助你拓展知识与工具。</p>
+    </section>
+
+    <footer>
+        <p>版权所有 © 2024 教会指导 | 联系方式：example@email.com</p>
+    </footer>
+</body>
+</html>
